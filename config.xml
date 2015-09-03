@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productmirror</name>
+	<displayName><![CDATA[Product Mirror]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Makes it possible to copy the attributes of a product unto any number of other products in one action.]]></description>
+	<author><![CDATA[SMB Streamline]]></author>
+	<tab><![CDATA[quick_bulk_update]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -10,9 +10,5 @@ class AdminProductsController extends AdminProductsControllerCore
         );
     }
 
-    public function processBulkMirrorpaste()
-    {
-        var_dump($this->boxes);die();
-    }
 
 }
